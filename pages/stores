@@ -206,11 +206,11 @@
             //     });
             //     s.append(f.select("svg"));
             // });
-            var startingMapTransform = 'scale(0.2)';
+            var startingMapTransform = 'scale(0.20)';
             var startingPanX = -150;
             var startingPanY = -150;
             if(isMobile) {
-                    startingMapTransform = 'scale(0.20)';
+                    startingMapTransform = 'scale(0.10)';
                     startingPanX = -170;
                     startingPanY = -200;
             }
