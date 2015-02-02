@@ -207,8 +207,8 @@
             //     s.append(f.select("svg"));
             // });
             var startingMapTransform = 'scale(0.2)';
-            var startingPanX =100;
-            var startingPanY = -120;
+            var startingPanX =0;
+            var startingPanY = 0;
             if(isMobile) {
                     startingMapTransform = 'scale(0.20)';
                     startingPanX = -170;
