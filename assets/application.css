@@ -1823,6 +1823,10 @@ table th[class*="col-"] {
         height:150px !important;
     }
     
+    .full_page_photo.slider_wrapper {
+        height:100px !important;
+    }
+    
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
