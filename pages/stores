@@ -94,7 +94,7 @@
                         val.z_coordinate = "B1"
                         break;
                     case 2:
-                        val.z_coodinate = "Level 1"
+                        val.z_coordinate = "Level 1"
                         break;
                     case 3:
                         val.z_coordinate = "Level 2"
