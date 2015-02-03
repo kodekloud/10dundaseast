@@ -1822,11 +1822,11 @@ table th[class*="col-"] {
     
     .flexslider .item {
         background-size:100% !important;
-        height:150px !important;
+        height:120px !important;
     }
     
     .full_page_photo.slider_wrapper {
-        height:100px !important;
+        height:70px !important;
     }
     
   .table-responsive {
