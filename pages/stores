@@ -206,7 +206,7 @@
             //     });
             //     s.append(f.select("svg"));
             // });
-            var startingMapTransform = 'scale(0.50)';
+            var startingMapTransform = 'scale(0.40)';
             var startingPanX = -150;
             var startingPanY = -150;
             if(isMobile) {
