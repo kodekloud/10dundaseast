@@ -1818,6 +1818,11 @@ table th[class*="col-"] {
         margin-bottom:10px !important;
     }
     
+    .flexslider .item {
+        background-size:100% !important;
+        height:150px !important;
+    }
+    
   .table-responsive {
     width: 100%;
     margin-bottom: 15px;
