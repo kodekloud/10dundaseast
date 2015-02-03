@@ -244,7 +244,7 @@
             var startingPanY = -150;
             if(isMobile) {
                     startingMapTransform = 'scale(0.24)';
-                    startingPanX = -180;
+                    startingPanX = -100;
                     startingPanY = -100;
             }
                 // $('#loading').hide();
