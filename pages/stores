@@ -9,7 +9,7 @@
                 <button class="zoom-out"><span class="glyphicon glyphicon-minus"></span></button>
                 
             </div>
-            <div id="map" class="panzoom-elements" style=""><img src="http://kodekloud.s3.amazonaws.com/sites/54cfab316e6f6433ad020000/345e6931b8dded3f0af9019926417c48/10dundas_map.png"></div>
+            <div id="map" class="panzoom-elements" style=""><img src="http://kodekloud.s3.amazonaws.com/sites/54cfab316e6f6433ad020000/a8704426af62272e093c26615bdf58b1/map.png"></div>
         </div>
 </div>
 <div class="main">
