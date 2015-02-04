@@ -1845,7 +1845,7 @@ table th[class*="col-"] {
     }
     
     .flexslider .item {
-        display:none;
+        display:none !important;
     }
     
     .full_page_photo.slider_wrapper {
