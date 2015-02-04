@@ -338,6 +338,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     margin-left:auto;
     margin-right:auto;
     display:block;
+    line-height:400px;
 }
 #description_section {
       /* For Safari 5.1 to 6.0 */
