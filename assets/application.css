@@ -1847,6 +1847,10 @@ table th[class*="col-"] {
         display:none;
     }
     
+    #description_section{
+        margin-top:0;
+    }
+    
     .full_page_photo.slider_wrapper {
         height:70px !important;
     }
