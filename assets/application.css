@@ -1843,7 +1843,7 @@ table th[class*="col-"] {
         bottom:0 !important;
         margin-bottom:10px !important;
     }
-    .flexslider{
+    .slider_wrapper{
         display:none;
     }
     
