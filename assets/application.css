@@ -1770,6 +1770,10 @@ table th[class*="col-"] {
   background-color: #ebcccc;
 }
 @media (max-width: 767px) {
+    .footer_text{
+        width:auto !important;
+    }
+    
     #search_input{
         width:88% !important;
     }
