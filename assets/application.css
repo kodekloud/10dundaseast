@@ -331,6 +331,9 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     width:auto; 
     height:auto; 
 } 
+#loading_screen{
+    height:400px;
+}
 #loading_screen img{
     margin-left:auto;
     margin-right:auto;
