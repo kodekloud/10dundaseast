@@ -76,9 +76,10 @@
             // renderPageData('#categories_container', '#categories_list_template', categories, "categories");
             render_categories(categories);
             render_category_stores();  
-            renderSVGMap();
+            
             $("#loading_screen").hide();
             $("#main_content").show();
+            renderSVGMap();
         }
         
     
