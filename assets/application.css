@@ -1802,7 +1802,6 @@ table th[class*="col-"] {
         background:black;
         position:absolute;
         width:100%;
-        margin-top:-5px;
     }
     
     .mobile_menu ul{
