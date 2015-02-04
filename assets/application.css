@@ -1844,9 +1844,6 @@ table th[class*="col-"] {
         margin-bottom:10px !important;
     }
     
-    .flexslider .item {
-        display:none !important;
-    }
     
     .full_page_photo.slider_wrapper {
         height:70px !important;
