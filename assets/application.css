@@ -1771,11 +1771,11 @@ table th[class*="col-"] {
 }
 @media (max-width: 767px) {
     #search_input{
-        width:88%;
+        width:88% !important;
     }
     
     #fieldEmail{
-        width:98%;
+        width:98% !important;
     }
     
     .property_logo {
