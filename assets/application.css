@@ -1847,6 +1847,10 @@ table th[class*="col-"] {
         display:none;
     }
     
+    .navbar a.navbar-brand:link, .navbar a.navbar-brand:visited{
+        margin-bottom:0;
+    }
+    
     #description_section{
         margin-top:0;
     }
