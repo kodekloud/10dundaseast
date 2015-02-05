@@ -156,8 +156,8 @@
                         </br>
                         <p><i class="fa fa-phone"></i> {{contact_phone}}</p>
                         <p><i class="fa fa-envelope"></i> <a href="mailto:{{contact_email}}">{{contact_email}}</a></p>
-                        </br>
                         <a href="/tenant_services">Tenant Services</a>
+                        <br>
                         {% endraw %}
                         </script>
                     </div>
