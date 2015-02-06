@@ -57,7 +57,7 @@ a {
 a:active,
 a:hover {
   outline: 0;
-  color:#e2222f;
+  color:#009cde;
 }
 abbr[title] {
   border-bottom: 1px dotted;
@@ -276,7 +276,7 @@ th {
 
 .map-mouse-over {
    stroke: #000;
-   fill:   #e2222f;
+   fill:   #009cde;
 }
 
 .property_logo{
@@ -475,12 +475,12 @@ textarea {
   line-height: inherit;
 }
 a {
-  color: #e2222f;
+  color: #009cde;
   text-decoration: none;
 }
 a:hover,
 a:focus {
-  color: #e2222f;
+  color: #009cde;
   text-decoration: underline;
 }
 a:focus {
@@ -2356,7 +2356,7 @@ fieldset[disabled] .btn-default.active {
 }
 .btn-primary {
   color: #ffffff;
-  background-color: #e2222f;
+  background-color: #009cde;
   border-color: #a1222f;
 }
 .btn-primary:hover,
@@ -2365,7 +2365,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #e2222f;
+  background-color: #009cde;
   border-color: #a1222f;
 }
 .btn-primary:active,
@@ -6324,7 +6324,7 @@ header .container {
   border-bottom: solid 0px #428bca;
 }
 #social_media_wrapper {
-  background: #e2222f;
+  background: #009cde;
   border-bottom-right-radius: 4px;
   border-bottom-left-radius: 4px;
   display: inline-block;
@@ -6356,7 +6356,7 @@ header .container {
 #social_media_wrapper a:active {
   text-decoration: none;
   color: #fff;
-  background: #e2222f;
+  background: #009cde;
 }
 #sign {
   position: absolute;
@@ -6654,7 +6654,7 @@ section.features_teasers_wrapper .feature_teaser h3 {
   margin: 0 0 16px 0;
   font-weight: 300;
   border-bottom: solid 1px #cccccc;
-  color: #e2222f;
+  color: #009cde;
 }
 .section_header.skincolored small {
   display: inline-block;
@@ -7210,7 +7210,7 @@ ul.portfolio_filters li .active a:hover {
   left: 0;
   padding: 15px;
   width: 100%;
-  background: #e2222f;
+  background: #009cde;
   color: #fff;
   font-weight: 300;
   transform: translateY(100%);
@@ -7614,7 +7614,7 @@ footer {
 }
 footer a:hover,
 footer a:active {
-  color: #e2222f;
+  color: #009cde;
   text-decoration: none;
 }
 .twitter_feed_wrapper {
