@@ -91,6 +91,14 @@
                 <div class="mobile_menu" style="display:none">
                     <ul>
                         <li><a href="/stores">Store Directory</a></li>
+                        <li><a onclick="javascript:toggle_submenu('directory_dd');">Store Directory <span class="caret"></span></a>
+                            <div id="directory_dd" class="submenu" style="display:none">
+                                <ul>
+                                    <li><a href="/stores">Store Directory</a></li>
+                                    <li><a href="/office_directory">Office Directory</a></li>
+                                </ul>    
+                            </div>
+                        </li>
                         <li><a href="/events">Events</a></li>
                         <li><a href="/promotions">Promotions</a></li>
                         <li><a onclick="javascript:toggle_submenu('leasing_dd');">Leasing <span class="caret"></span></a>
