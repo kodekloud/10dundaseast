@@ -2521,7 +2521,7 @@ fieldset[disabled] .btn-warning.active {
 .btn-danger {
   color: #ffffff;
   background-color: #009cde;
-  border-color: #000;
+  border-color: #0076a8;
 }
 .btn-danger:hover,
 .btn-danger:focus,
@@ -2530,7 +2530,7 @@ fieldset[disabled] .btn-warning.active {
 .open .dropdown-toggle.btn-danger {
   color: #ffffff;
   background-color: #009cde;
-  border-color: #000;
+  border-color: #0076a8;
 }
 .btn-danger:active,
 .btn-danger.active,
