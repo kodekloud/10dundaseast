@@ -49,8 +49,8 @@
 
 
 <div class="main">
-    <h1>Enter to Win</h1>
-    <p class="contest_description"></p>
+    <h1></h1>
+    <p class="contest_description">Contest closes February 28th, 2015.   One entry per person.  Winner will be contacted via telephone.</p>
      <img class="contest_image" src="http://kodekloud.s3.amazonaws.com/sites/54cfab316e6f6433ad020000/696687d954d5727f2581c6e4b92bdfe2/JackAstor's_Contest_Page_940x450px.png" />
      <div class="contest_form_div">
          <form action="http://mobilefringe.createsend.com/t/d/s/tkhiut/" method="post" id="contest_form">
