@@ -163,7 +163,7 @@
                         <script id="footer_template" type="x-tmpl-mustache/text">
                         {% raw %}
                         <h3>{{name}}</h3>
-                        {{address1}} {{postal_code}}</br>
+                        {{address1}} </br> {{postal_code}}</br>
                         {{city}}, {{province_state}}
                         </br>
                         </br>
