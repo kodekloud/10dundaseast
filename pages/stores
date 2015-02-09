@@ -192,43 +192,8 @@
                $('#pop-over').css({'top':e.pageY+20,'left':e.pageX-70});
             });
             var s = Snap("#map");
-            var stores = getStoresList();
-            // console.log (getSVGMapURL())
-            // Snap.load(getSVGMapURL(), function (f) {
-            //     $.each( stores, function( key, value ) {
-            //         if(value.svgmap_region != null && typeof(value.svgmap_region)  != 'undefined'){
-            //             var svg_id = "#" + value.svgmap_region;
-            //             f.select(svg_id).mouseover(function() {
-            //                 if(typeof(value) != 'undefined' && value != null){
-            //                     this.addClass("map-mouse-over");
-            //                     $("#pop-over").show();
-            //                     $("#pop-over-map-name").html(value.name);
-            //                     $("#pop-over-map-phone").html(value.phone);
-            //                 }
-                                      
-            //             });
-                            
-            //             //add the mouse up handler for hiding the pop over when done hovering
-            //             f.select(svg_id).mouseout(function() {
-            //                 this.removeClass("map-mouse-over");
-            //                 $("#pop-over").hide(0);
-                            
-            //             });
-                            
-            //             //add the mouse up function for when the user clicks a store
-            //             f.select(svg_id).mouseup(function() {
-                            
-            //                 if(!isMobile && !didPanZoom){
-                                
-            //                     goToStore(value);
-            //                 }
-            //                 didPanZoom = false;
-                                  
-            //             });
-            //         }
-            //     });
-            //     s.append(f.select("svg"));
-            // });
+      
+        
             var startingMapTransform = 'scale(0.50)';
             var startingPanX = -180;
             var startingPanY = -150;
@@ -263,13 +228,13 @@
                       didPanZoom = false;
                     });
                 });
-            }else{
+        }else{
                 $('#loading').hide();
                 $('#zControls').hide();
                 $('#map').hide();
                 $( "#page_content" ).fadeIn( "fast");
-            }
         }
+    }
     
     function goToStore(store_details){
         if(typeof(store_details) != 'undefined' && store_details != null){
