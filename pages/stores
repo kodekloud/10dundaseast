@@ -125,7 +125,7 @@
                             val.z_coordinate = "Level 5"
                             break;
                     } 
-                    if(exterior_retailer){
+                    if(val.exterior_retailer){
                         val.z_coordinate += " Exterior";
                     }
                 }
