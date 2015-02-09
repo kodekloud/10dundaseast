@@ -55,7 +55,7 @@
                                     <a href="https://www.facebook.com/10DundasEast" target="_blank"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/10DundasEast" target="_blank"><i class="fa fa-twitter"></i></a><a href="http://instagram.com/10dundaseast" target="_blank"><i class="fa fa-instagram"></i></a><a href="https://www.youtube.com/user/10DundasEast" target="_blank"><i class="fa fa-youtube"></i></a>
                                     <br>
                                     <br>
-                                    <p>{{address1}}</p>
+                                    <p>{{address1}} {{postal_code}}</p>
                                     <p>{{city}} , {{province_state}}</p>
                                     
                                     
