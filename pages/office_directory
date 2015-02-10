@@ -6,7 +6,11 @@
           </section> -->
      </div>
 </div>
-
+<style>
+    img {
+        float:right;
+    }
+</style>
 <div class="main">
      <div class="container">
           <section class="hgroup">
@@ -18,7 +22,7 @@
           
           <section class="article-text">
               <p><br />
-              
+             <img src = "http://kodekloud.s3.amazonaws.com/sites/54cfab316e6f6433ad020000/6665745ec380bf96f6a748243a4e710f/Office Directory.jpg">
 <strong>10 Dundas East Mgmt.<br />
 Office - Bentall Kennedy</strong></p>
 
