@@ -15,11 +15,12 @@
                     <li><a href="/home">Home</a> </li>
                </ul>
           </section>
-          <section class="article-text">
-              <p><br />
-              <div> 
+          <div> 
     <img src="http://kodekloud.s3.amazonaws.com/sites/54cfab316e6f6433ad020000/9643e9630b5dc806f5a810e06af3b8fd/Office Directory.jpg" style="float:right;" />
   <div style="clear:right;">
+          <section class="article-text">
+              <p><br />
+              
 <strong>10 Dundas East Mgmt.<br />
 Office - Bentall Kennedy</strong></p>
 
