@@ -333,6 +333,11 @@
             renderPropertyLogo('#logo_template','#site_logo',propertyDetails);
             renderPropertyFooter('#footer_template','#footer_container',propertyDetails);
             renderTodaysHours('#todays_hours_search_template','#todays-hours-search');
+            set_meta(get_meta());
+            
+        }
+        
+        function set_meta (meta){
             
         }
         function renderPropertyLogo(logo_template,site_logo,propertyDetails){
